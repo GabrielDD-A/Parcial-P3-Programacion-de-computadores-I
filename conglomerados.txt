@@ -1,0 +1,4 @@
+C001;Santander;Bucaramanga;7.1254;-73.1198;B01
+C002;Santander;Piedecuesta;6.9876;-73.0502;B01
+C003;La Guajira;Riohacha;11.5444;-72.9072;B02
+C004;Choco;Quibdo;5.6947;-76.6583;B03

@@ -1,0 +1,6 @@
+C001;M001;Roble;maderable;Quercus humboldtii
+C001;M002;Frailejon;medicinal;Espeletia grandiflora
+C002;M003;Guayacan;maderable;Handroanthus chrysanthus
+C003;M004;Trupillo;alimenticio;Prosopis juliflora
+C004;M005;Caucho;maderable;Ficus elastica
+C004;M006;Palma de cera;alimenticio;Ceroxylon quindiuense

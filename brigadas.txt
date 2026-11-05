@@ -1,0 +1,3 @@
+B01;Maria Gomez;Luis Pardo,Ana Rojas;Jose Duarte
+B02;Carlos Pinto;Sandra Mejia,Pedro Uriana;Rosa Epieyu
+B03;Laura Salcedo;Andres Mosquera,Diana Palacios;Ever Blandon
