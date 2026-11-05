@@ -1,1 +1,0 @@
-# Parcial-P3-Programacion-de-computadores-I
