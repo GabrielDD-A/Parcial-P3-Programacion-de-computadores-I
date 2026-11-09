@@ -1,0 +1,6 @@
+B01|Jair Alexander Sánchez|Líder de brigada
+B01|Ever José Blandón|Coinvestigador local
+B01|María Mosquera|Botánica
+B02|Laura Gómez Ríos|Líder de brigada
+B02|Andrés Pérez|Ingeniero forestal
+B02|Rosa Domicó|Coinvestigadora local

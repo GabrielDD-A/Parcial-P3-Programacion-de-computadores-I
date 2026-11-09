@@ -1,0 +1,6 @@
+M0001|I001|Abarco|Maderable|Cariniana pyriformis
+M0002|I001|Borojó|Alimenticio|Alibertia patinoi
+M0003|I001|Matarratón|Medicinal|Gliricidia sepium
+M0004|I002|Roble|Maderable|Quercus humboldtii
+M0005|I002|Guayaba|Alimenticio|Psidium guajava
+M0006|I002|Abarco|Maderable|Cariniana pyriformis
